@@ -1,6 +1,6 @@
 Julia/Ryan/Alec
 
-The cat jumped across the ocean.
+The cat jumped across the dog.
 
 The dog entered the house.
 
